@@ -2,7 +2,7 @@
 ```java
 System.out.println("Bem-vindo(a) ao meu perfil!");
 ```
-# ✨ Eu sou a Eryka!
+# ✨ Ola, eu sou a Eryka!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 - 🌱 Atualmente aprendendo Java, mySQL, MongoDB, e JavaScript
